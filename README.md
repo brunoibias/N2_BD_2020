@@ -2,6 +2,14 @@
 
 <h2>N2 da cadeira de Banco de Dados 2020/02</h2>
 
+Base de dados de referência e ferramentas
+• O nome do arquivo é DadosIBGE.backup
+• Você deve restaurar o arquivo para uma nova base de dados para
+conceber os scripts e aplicar as modificações na base conforme as
+especificações.
+• Utilize a ferramenta de manipulação de base de dados que desejar
+para realizar a atividade (sqlmanager, dbeaver, pgadmin e outras)
+
 Consulta 1
 • Apresente o script de uma consulta que gere um relatório que
 apresente a quantidade de cidades das UF da região norte.
